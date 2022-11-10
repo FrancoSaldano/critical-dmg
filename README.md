@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @critical-dmg
-- 👀 I’m interested in ... Web Development
-- 🌱 I’m currently learning ...Full-Stack Developer
-- 💞️ I’m looking to collaborate on ... 
-- 📫 How to reach me ...
+- 👋 Hola como estás?! espero que bien, gracias por pasarte por mi repo!
+- 👀 Estoy interesado en el Desarrollo Frontend!
+- 🌱 Actualmente super interesado en el MERN stack 
+- 📫 Para contactarse conmigo -> francosaldano@gmail.com
 
 <!---
 critical-dmg/critical-dmg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
