@@ -1,7 +1,7 @@
 - 👋 Hola como estás?! espero que bien, gracias por pasarte por mi repo!
 - 👀 Estoy interesado en el Desarrollo Frontend!
 - 🌱 Actualmente super interesado en el MERN stack 
-- 📫 Para contactarse conmigo -> francosaldano@gmail.com
+- 📫 Para contactarse conmigo -> francosaldano1@gmail.com
 
 <!---
 critical-dmg/critical-dmg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
